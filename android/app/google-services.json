@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544563516849",
+    "project_id": "zoomrad-eb69d",
+    "storage_bucket": "zoomrad-eb69d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544563516849:android:a4084a7b4de839310d5990",
+        "android_client_info": {
+          "package_name": "uz.aloqabank.zoomrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544563516849-e9kikabl9mh6nubnflsc111f1ovds19l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRyOPucOM6UpwN6QGB7vqa64CmjGc67wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544563516849-e9kikabl9mh6nubnflsc111f1ovds19l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
